@@ -1,4 +1,4 @@
-# Customized WFP Callout Driver for Azure VM Communication Inspection/Blocking
+# Customized WFP Driver for Azure VM Communication Inspection/Blocking
 
 This project is a customized implementation of a Windows Filtering Platform driver, originally based on the [WFPStarterKit](https://github.com/JaredWright/WFPStarterKit/tree/master) by Jared Wright. 
 It's designed as a training tool to inspect/filter outbound TCP traffic, specifically to troubleshoot issues related to VM communication with Azure platform resources. 
